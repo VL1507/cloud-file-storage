@@ -1,0 +1,7 @@
+[project]
+name = "cloud-file-storage"
+version = "0.1.0"
+description = "Backend for pet-project Cloud file storage"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
